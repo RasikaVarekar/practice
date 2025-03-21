@@ -1,0 +1,2 @@
+This is sample file 2 saved by local machine
+GIT revert message1

@@ -1,2 +1,6 @@
 This is sample file 2
+<<<<<<< HEAD
 This is modification done at 11:00 in sample test file2
+=======
+This is comparison lecture, changed in file 2
+>>>>>>> main

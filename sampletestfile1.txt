@@ -1,2 +1,6 @@
 This is sample file 1
+
 This is modification done at 10:59
+
+This is comparison lecture
+
